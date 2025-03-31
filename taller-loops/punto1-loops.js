@@ -80,7 +80,7 @@ while (contador != listaDigitos.length){
     contador += 1
 }
 console.log("Digitos", contador)
-*/
+
 
 // Punto 10 -------- Do while
 
@@ -89,3 +89,4 @@ do {
 
     console.log("El monto")
 }
+    */

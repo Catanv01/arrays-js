@@ -60,7 +60,9 @@ for (let i = 2; i < numero; i++){
 }
 console.log("Los primeros numeros de: "+ numero +"son:" + fibonacci.slice(0, numero))
 
-*/
+
+
+//Explicación for
 
 let nombres = ["Carlos", "Pepe", "Ana", "Luisa"]
 
@@ -68,3 +70,23 @@ for(const nombre of nombres){
     console.log("Nombres " + nombre)
 }
 console.log("Estoy fuera!")
+
+
+//Actividad 5 Longitud de palabras
+let palabras = ["Hola", "Adios"]
+
+for (const palabra of palabras){
+    console.log("Palabra: " + palabra)
+    let Longitud = palabra.length
+    console.log("Longitud: " + Longitud)
+}
+console.log("Estoy fuera")
+
+
+let estudiantes = [20, 19, 30, 15, 25]
+let mayor = 0
+
+for (let i=0; i < 5, i++){
+    
+}
+*/

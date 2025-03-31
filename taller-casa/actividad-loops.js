@@ -8,6 +8,6 @@ while (numero < 100){
 let contador = 0
 
 do {
-    console.log("Iteración do while numero", conntador)
+    console.log("Iteración do while numero", contador)
     contador += 1
 } while(contador < 100)
